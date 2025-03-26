@@ -1,12 +1,53 @@
-This project had to do with groceries sales analysis across multiple dimensions. The dataset includes sales records from January 2016 to December 2016, with details on orders, products, amounts, and geographic distribution
+# 📊 Sales Data Analysis - Fruit & Vegetables Company  
 
-The data contains 213 sales records across 7 countries and 2 categories(Fruits and vegetables). The data was cleaned and used to derive insights.
-Fruits ($693,069) outsold Vegetables ($336,665). Bananas generated the highest revenue ($340,295). United States was the top country with 57 orders and $176,971 in Fruit sales.  
+## 📝 Project Overview  
+This project analyzes sales data for a **fruit and vegetables company** to track performance across different countries and product categories. The goal is to identify **sales trends, high-performing regions, and business insights** to optimize decision-making.  
 
-United States dominated Fruit (42 orders) and Vegetable (15 orders) sales.  
-Germany had the highest Vegetable sales (20 orders).  
+🔗 **Dataset:** [Bridget Sampong Capstone.xlsx](https://github.com/Basampong/Data-Analytics-Projects/blob/main/Bridget%20Sampong%20Capstone.xlsx)  
+
+## 📂 Dataset Description  
+The dataset is in **Excel format (.xlsx)** and contains key sales metrics:  
+
+| Column Name     | Description |
+|----------------|------------|
+| **Date**       | Transaction date (`YYYY-MM-DD`) |
+| **Country**    | Country where the sale occurred |
+| **Category**   | Product type (**Fruits** or **Vegetables**) |
+| **Product Name** *(if available)* | Name of the sold product |
+| **Sales Volume** | Number of units sold |
+| **Revenue**    | Total earnings from sales *(Revenue = Sales Volume × Unit Price)* |
+| **Cost** *(if available)* | Cost of goods sold (COGS) |
+| **Profit** *(if available)* | Net profit *(Profit = Revenue - Cost)* |
+
+---
+
+## 🎯 Project Goals  
+🔹 Identify **sales trends** over time  
+🔹 Compare **sales performance by country**  
+🔹 Analyze **best-selling products & categories**  
+🔹 Evaluate **profitability & cost efficiency** *(if cost data is available)*  
+🔹 Provide insights for **business decision-making**  
+
+---
+
+## 📊 Key Insights & Findings  
+✅ **Seasonal trends:** Sales fluctuate based on specific months/events  
+✅ **Top-performing countries:** Identify regions generating the highest revenue  
+✅ **Best-selling products:** Analyze which fruits & vegetables drive the most sales  
+✅ **Profitability analysis:** Determine areas for cost optimization & margin improvement  
+
+---
+
+## 🛠️ Tools & Technologies Used  
+- **Excel** (Data Cleaning, Pivot Tables, Charts)  
+
+---
+
+## 📌 How to Use  
+
+### 1️⃣ **Excel Analysis**  
+- Open the `.xlsx` file  
+- Use **Pivot Tables** to analyze sales by country, category, and date  
+- Create **charts & graphs** to visualize trends  
 
 
-Bridget Sampong
-Bridgetsampong@gmail.com 
-https://github.com/bridgetsampong
