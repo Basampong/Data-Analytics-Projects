@@ -10,22 +10,18 @@ The dataset is in **Excel format (.xlsx)** and contains key sales metrics:
 
 | Column Name     | Description |
 |----------------|------------|
-| **Date**       | Transaction date (`YYYY-MM-DD`) |
 | **Country**    | Country where the sale occurred |
 | **Category**   | Product type (**Fruits** or **Vegetables**) |
 | **Product Name** *(if available)* | Name of the sold product |
 | **Sales Volume** | Number of units sold |
 | **Revenue**    | Total earnings from sales *(Revenue = Sales Volume × Unit Price)* |
-| **Cost** *(if available)* | Cost of goods sold (COGS) |
-| **Profit** *(if available)* | Net profit *(Profit = Revenue - Cost)* |
+
 
 ---
 
 ## 🎯 Project Goals  
-🔹 Identify **sales trends** over time  
 🔹 Compare **sales performance by country**  
 🔹 Analyze **best-selling products & categories**  
-🔹 Evaluate **profitability & cost efficiency** *(if cost data is available)*  
 🔹 Provide insights for **business decision-making**  
 
 ---
@@ -34,7 +30,6 @@ The dataset is in **Excel format (.xlsx)** and contains key sales metrics:
 ✅ **Seasonal trends:** Sales fluctuate based on specific months/events  
 ✅ **Top-performing countries:** Identify regions generating the highest revenue  
 ✅ **Best-selling products:** Analyze which fruits & vegetables drive the most sales  
-✅ **Profitability analysis:** Determine areas for cost optimization & margin improvement  
 
 ---
 
